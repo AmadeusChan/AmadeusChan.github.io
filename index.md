@@ -13,3 +13,9 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 * **Aug. 2019**  Awarded the Annenberg Fellowship at USC. 
 * **Oct. 2018**  Awarded the Scholarship for Academic Excellence at Tsinghua University.
 * **Aug. 2014**  Awarded Silver Medal in National Olympiad in Informatics (NOI, China).
+
+### Education
+
+* **Aug. 2022-Present**, Ph.D. in Computer Science, Department of Computer Science, Purdue University.
+* **Aug. 2019-Aug. 2022**, Ph.D. in Computer Engineering, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California.
+* **Aug. 2015-July 2019**, Bachelor of Engineering, Department of Computer Science and Technology, Tsinghua University.
