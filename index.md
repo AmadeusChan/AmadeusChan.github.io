@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a Ph.D. student in Computer Science at Purdue University under the supervision of Prof. Xuehai Qian. Before that, I was a Ph.D. student in Computer Engineering at the University of Southern California, also under the supervision of Prof. Xuehai Qian. I obtained my Bachelor of Engineering degree in the Department of Computer Science and Technology at Tsinghua University. My research interests majorly focus on system and architectural level specializations for challenging workloads like graph processing and machine learning. 
+I am a Ph.D. student in Computer Science at Purdue University under the supervision of Prof. Xuehai Qian. Before that, I was a Ph.D. student in Computer Engineering at the University of Southern California, also under the supervision of Prof. Xuehai Qian. I obtained my Bachelor of Engineering degree in the Department of Computer Science and Technology at Tsinghua University. My research interests majorly focus on system and architectural level specializations for challenging workloads like graph processing and machine learning. You can find my CV [here](http://alchem.usc.edu/~amadeuschan/download/resume_jingji.pdf).
 
 ### News 
 
