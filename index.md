@@ -6,10 +6,10 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 
 ### News 
 
-* Aug. 2022:  One paper gets accepted by **ASPLOS'2023** (the 28th International Conference on Architectural Support for Programming Languages and Operating Systems).
-* Nov. 2021:  One paper gets accepted by **ASPLOS'2022** (the 27th International Conference on Architectural Support for Programming Languages and Operating Systems).
-* July 2021:  One paper gets accepted by **TOCS** (ACM Transactions on Computer Systems).
-* Feb. 2020:  One paper gets accepted by **PLDI'2020** (the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation).
-* Aug. 2019:  Awarded the Annenberg Fellowship at USC. 
-* Oct. 2018:  Awarded the Scholarship for Academic Excellence at Tsinghua University.
-* Aug. 2014:  Awarded Silver Medal in National Olympiad in Informatics (NOI, China).
+* **Aug. 2022**  One paper gets accepted by **ASPLOS'2023** (the 28th International Conference on Architectural Support for Programming Languages and Operating Systems).
+* **Nov. 2021**  One paper gets accepted by **ASPLOS'2022** (the 27th International Conference on Architectural Support for Programming Languages and Operating Systems).
+* **July 2021**  One paper gets accepted by **TOCS** (ACM Transactions on Computer Systems).
+* **Feb. 2020**  One paper gets accepted by **PLDI'2020** (the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation).
+* **Aug. 2019**  Awarded the Annenberg Fellowship at USC. 
+* **Oct. 2018**  Awarded the Scholarship for Academic Excellence at Tsinghua University.
+* **Aug. 2014**  Awarded Silver Medal in National Olympiad in Informatics (NOI, China).
