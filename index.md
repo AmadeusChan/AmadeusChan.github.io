@@ -14,7 +14,7 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 * **Aug. 2019**  Awarded the Annenberg Fellowship at USC Viterbi School of Engineering. 
 * **Aug. 2019**  Enter USC Viterbi School of Engineering as a Ph.D. student (in Computer Engineering). 
 
-## Experience
+### Experience
 
 * **May 2022-Aug. 2022** Research intern at Microsoft Research, Redmond (the RiSE lab, supervisor: Saeed Maleki).
 * **July 2018-Sept. 2018** Summer research intern at USC (supervisor: Xuehai Qian).
