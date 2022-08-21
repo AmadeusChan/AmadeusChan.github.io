@@ -23,10 +23,10 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 
 ### Publications or Accepted Papers
 
-* **Jingji Chen**, Xuehai Qian, DecoMine: A Compilation-based Graph Pattern Mining System with Pattern Decomposition. The 28nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2023).
-* Gengyu Rao, **Jingji Chen**, Jason Yik, Xuehai Qian, SparseCore: Stream ISA and Processor Specialization for Sparse Computation. The 27nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2022).
-* Youwei Zhuo*, __Jingji Chen* (* equal contribution)__, Gengyu Rao, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian, Distributed Graph Processing System and Processing-In-Memory Architecture with Precise Loop-Carried Dependency Guarantee. ACM Transactions on Computer Systems (TOCS), Volume 37, Issue 1-4, Artical No. 5, 2021.
-* Youwei Zhuo*, __Jingji Chen* (* equal contribution)__, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian, SympleGraph: Distributed Graph Processing with Precise Loop-carried Dependency Guarantee. The 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI’2020).
+* _**Jingji Chen**_, Xuehai Qian, DecoMine: A Compilation-based Graph Pattern Mining System with Pattern Decomposition. The 28nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2023).
+* Gengyu Rao, _**Jingji Chen**_, Jason Yik, Xuehai Qian, SparseCore: Stream ISA and Processor Specialization for Sparse Computation. The 27nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2022).
+* Youwei Zhuo*, ___Jingji Chen* (* equal contribution)___, Gengyu Rao, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian, Distributed Graph Processing System and Processing-In-Memory Architecture with Precise Loop-Carried Dependency Guarantee. ACM Transactions on Computer Systems (TOCS), Volume 37, Issue 1-4, Artical No. 5, 2021.
+* Youwei Zhuo*, ___Jingji Chen* (* equal contribution)___, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian, SympleGraph: Distributed Graph Processing with Precise Loop-carried Dependency Guarantee. The 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI’2020).
 
 ### Award
 
