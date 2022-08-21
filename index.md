@@ -6,6 +6,7 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 
 ### News 
 
-* Nov 2021: My paper **(second author)** on sparse computation architectures gets accepted by **ASPLOS 2022 (the 27th International Conference on Architectural Support for Programming Languages and Operating Systems)**.
-* July 2021: My paper **(co-first author)** on graph processing in distributed environments and PIM architectures (an extended version of SympleGraph) gets accepted by **TOCS (ACM Transactions on Computer Systems)**.
-* Feb 2020: My paper **(co-first author)** on distributed graph processing (SympleGraph) gets accepted by **PLDI'2020 (the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation)**.
+* Aug. 2022: One paper gets accepted by **ASPLOS'2023 (the 28th International Conference on Architectural Support for Programming Languages and Operating Systems)**
+* Nov 2021: One paper gets accepted by **ASPLOS'2022 (the 27th International Conference on Architectural Support for Programming Languages and Operating Systems)**.
+* July 2021: One paper gets accepted by **TOCS (ACM Transactions on Computer Systems)**.
+* Feb 2020: One paper gets accepted by **PLDI'2020 (the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation)**.
