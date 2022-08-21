@@ -19,6 +19,13 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 * **May 2022-Aug. 2022** Research intern at Microsoft Research, Redmond (the RiSE lab, supervisor: Saeed Maleki).
 * **July 2018-Sept. 2018** Summer research intern at USC (supervisor: Xuehai Qian).
 
+### Publications or Accepted Papers
+
+* **Jingji Chen**, Xuehai Qian, DecoMine: A Compilation-based Graph Pattern Mining System with Pattern Decomposition. The 28nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2023).
+* Gengyu Rao, **Jingji Chen**, Jason Yik, Xuehai Qian, SparseCore: Stream ISA and Processor Specialization for Sparse Computation. The 27nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2022).
+* Youwei Zhuo*, __Jingji Chen* (* equal contribution)__, Gengyu Rao, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian, Distributed Graph Processing System and Processing-In-Memory Architecture with Precise Loop-Carried Dependency Guarantee. ACM Transactions on Computer Systems (TOCS), Volume 37, Issue 1-4, Artical No. 5, 2021.
+* Youwei Zhuo*, __Jingji Chen* (* equal contribution)__, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian, SympleGraph: Distributed Graph Processing with Precise Loop-carried Dependency Guarantee. The 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI’2020).
+
 ### Award
 
 * **Aug. 2019** Annenberg Fellowship, University of Southern California.
