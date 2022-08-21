@@ -12,4 +12,4 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 * Feb. 2020: One paper gets accepted by **PLDI'2020 (the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation)**.
 * Aug. 2019: Awarded Annenberg Fellowship at USC. 
 * Oct. 2018: Awarded the Scholarship for Academic Excellence at Tsinghua University.
-* Aug. 2014: Awarded Silver Medalist in National Olympiad in Informatics (NOI, China).
+* Aug. 2014: Awarded Silver Medal in National Olympiad in Informatics (NOI, China).
