@@ -17,6 +17,7 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 * **Feb. 2020**  One paper gets accepted by **PLDI'2020** (the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation).
 * **Aug. 2019**  Awarded the Annenberg Fellowship at USC Viterbi School of Engineering. 
 * **Aug. 2019**  Enter USC Viterbi School of Engineering as a Ph.D. student (in Computer Engineering). 
+* **July 2019**  Graduated from Tsinghua University (Department of Computer Science and Technology)!
 
 ### Experience
 
