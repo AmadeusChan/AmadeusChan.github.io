@@ -44,3 +44,5 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 * **Aug. 2022-Present** Ph.D. in Computer Science, Department of Computer Science, Purdue University.
 * **Aug. 2019-Aug. 2022** Ph.D. in Computer Engineering, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California.
 * **Aug. 2015-July 2019** Bachelor of Engineering, Department of Computer Science and Technology, Tsinghua University.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Famadeuschan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
