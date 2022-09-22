@@ -10,6 +10,7 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 
 ### News 
 
+* **Sept. 2022**  Another paper gets accepted by **ASPLOS'2023** (the 28th International Conference on Architectural Support for Programming Languages and Operating Systems)!
 * **Aug. 2022**  Tranferred from USC to Purdue University as a Ph.D. student in Computer Science.
 * **Aug. 2022**  One paper gets accepted by **ASPLOS'2023** (the 28th International Conference on Architectural Support for Programming Languages and Operating Systems).
 * **Nov. 2021**  One paper gets accepted by **ASPLOS'2022** (the 27th International Conference on Architectural Support for Programming Languages and Operating Systems).
@@ -26,6 +27,7 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 
 ### Publications or Accepted Papers
 
+* _**Jingji Chen**_, Xuehai Qian, Khuzdul: Efficient and Scalable Distributed Graph Pattern Mining Engine. The 28nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2023).
 * _**Jingji Chen**_, Xuehai Qian, DecoMine: A Compilation-based Graph Pattern Mining System with Pattern Decomposition. The 28nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2023).
 * Gengyu Rao, _**Jingji Chen**_, Jason Yik, Xuehai Qian, SparseCore: Stream ISA and Processor Specialization for Sparse Computation. The 27nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2022).
 * Youwei Zhuo*, ___Jingji Chen* (* equal contribution)___, Gengyu Rao, Qinyi Luo, Yanzhi Wang, Hailong Yang, Depei Qian, Xuehai Qian, Distributed Graph Processing System and Processing-In-Memory Architecture with Precise Loop-Carried Dependency Guarantee. ACM Transactions on Computer Systems (TOCS), Volume 37, Issue 1-4, Artical No. 5, 2021.
