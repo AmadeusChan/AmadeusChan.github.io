@@ -52,7 +52,7 @@ As a system researcher, I have designed and implemented various high-performance
 
 ### Education
 
-* **Aug. 2022-Present** Ph.D. in Computer Science, Department of Computer Science, Purdue University.
+* **Aug. 2022-Present** Ph.D. in Computer Science, Department of Computer Science, Purdue University (transferred from USC).
 * **Aug. 2019-Aug. 2022** Ph.D. in Computer Engineering, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California.
 * **Aug. 2015-July 2019** Bachelor of Engineering, Department of Computer Science and Technology, Tsinghua University.
 
