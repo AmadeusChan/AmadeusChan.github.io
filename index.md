@@ -8,7 +8,7 @@ I am a Ph.D. student in Computer Science at Purdue University under the supervis
 
 As a system researcher, I have designed and implemented various high-performance machine learning and graph systems _**(with more than 30K lines of code in total)**_, including a distributed GNN training system (GNNPipe, paper in submission), an efficient and scalable distributed GPM (graph pattern mining) system (Khuzdul, ASPLOS'22), a compilation-based GPM system (DecoMine, ASPLOS'22) and a distributed graph processing system (SympleGraph, PLDI'20/TOCS). I am currently actively working on efficient LLM (large language model) serving systems. I have maintained a (non-comprehensive) list of LLM system papers [here](https://github.com/AmadeusChan/Awesome-LLM-System-Papers), and you are more than welcome to create a PR to update the repo :)
 
-*__I plan to graduate in 2024 and I am actively looking for a industrial research or engineer job or a post-doctoral position. Feel free to reach out if your company/lab has any opening :)__*
+*__I plan to graduate in 2024 and I am actively looking for a industrial research/engineer job or a post-doctoral position. Feel free to reach out if your company/lab has any opening :)__*
 
 ![selfie](docs/assets/images/jingji.png)
 
