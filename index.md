@@ -34,7 +34,7 @@ As a system researcher, I have designed and implemented various high-performance
 
 ### Publications or Accepted Papers
 
-* * _**Jingji Chen**_, Zhuoming Chen, Xuehai Qian, Mithril: Scaling Deep GNN Training with Pipelined Model Parallelism (accepted by HPCA'2025). [arxiv version link](https://arxiv.org/pdf/2308.10087.pdf)
+* _**Jingji Chen**_, Zhuoming Chen, Xuehai Qian, Mithril: Scaling Deep GNN Training with Pipelined Model Parallelism (accepted by HPCA'2025). [arxiv version link](https://arxiv.org/pdf/2308.10087.pdf)
 * _**Jingji Chen**_, Xuehai Qian, Khuzdul: Efficient and Scalable Distributed Graph Pattern Mining Engine. The 28nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2023). [link](https://dl.acm.org/doi/pdf/10.1145/3575693.3575743)
 * _**Jingji Chen**_, Xuehai Qian, DecoMine: A Compilation-based Graph Pattern Mining System with Pattern Decomposition. The 28nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2023). [link](https://dl.acm.org/doi/pdf/10.1145/3567955.3567956)
 * Gengyu Rao, _**Jingji Chen**_, Jason Yik, Xuehai Qian, SparseCore: Stream ISA and Processor Specialization for Sparse Computation. The 27nd Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS’2022). [link](https://dl.acm.org/doi/pdf/10.1145/3503222.3507705)
